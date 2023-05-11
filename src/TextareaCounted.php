@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevateDigital\CharcountedFields;
+namespace Everzel\CharcountedFields;
 
 class TextareaCounted extends FieldCounted
 {
@@ -10,7 +10,7 @@ class TextareaCounted extends FieldCounted
      * @var string
      */
     public $component = 'textarea-counted';
-    
+
     /**
      * The number of rows used for the textarea.
      *

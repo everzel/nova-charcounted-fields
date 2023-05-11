@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevateDigital\CharcountedFields;
+namespace Everzel\CharcountedFields;
 
 use Laravel\Nova\Fields\Field;
 

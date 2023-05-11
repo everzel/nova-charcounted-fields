@@ -17,15 +17,15 @@ Add the GitHub URL to your repositories list in `composer.json`:
 
 You can require this package using composer:
 
-`composer require elevate-digital/nova-charcounted-fields`
+`composer require everzel/nova-charcounted-fields`
 
 # Usage
 
 You can add the field with a resolver as follows:
 
 ```
-use ElevateDigital\CharcountedFields\TextCounted;
-use ElevateDigital\CharcountedFields\TextareaCounted;
+use Everzel\CharcountedFields\TextCounted;
+use Everzel\CharcountedFields\TextareaCounted;
 
 TextCounted::make('Meta title')
 ```

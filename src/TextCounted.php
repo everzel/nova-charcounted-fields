@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevateDigital\CharcountedFields;
+namespace Everzel\CharcountedFields;
 
 class TextCounted extends FieldCounted
 {
